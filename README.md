@@ -102,3 +102,8 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 --
 
 yarn add @hirosystems/chainhook-client
+
+https://github.com/hirosystems/stacks-blockchain-api/blob/develop/client/README.md
+
+yarn add socket.io-client
+yarn add -D @types/socket.io-client
